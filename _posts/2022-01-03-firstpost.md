@@ -1,8 +1,6 @@
 ---
-
-layout : post
-title : "여기는 이런 곳 입니다."
-
+layout: post
+title: "여기는 이런 곳 입니다."
 ---
 
 # 여기는 나의 낙서장입니다.
