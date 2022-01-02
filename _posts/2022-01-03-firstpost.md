@@ -1,6 +1,6 @@
 ---
 
-layout : single
+layout : post
 title : "여기는 이런 곳 입니다."
 
 ---
