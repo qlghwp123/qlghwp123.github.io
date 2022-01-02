@@ -1,10 +1,12 @@
 ---
+
 layout: post
-title: "여기는 이런 곳 입니다."
+title:  "Welcome to Jekyll!"
+
 ---
 
-# 여기는 나의 낙서장입니다.
+# Welcome
 
-저의 생각과 제가 학습한 것들을 잘 정리하거나 나열할 예정입니다!
+**Hello world**, this is my first Jekyll blog post.
 
-** 위 표가 나오는게 맞는 것인지 잘 모르겠네요.. **
+I hope you like it!
