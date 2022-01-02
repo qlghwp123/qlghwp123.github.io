@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "여기는 어떤 사이트인가요?"
 ---
 
