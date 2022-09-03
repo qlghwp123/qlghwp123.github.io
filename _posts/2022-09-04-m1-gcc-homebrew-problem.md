@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : single
 title : stdc++.h 를 위해 gcc 를 M1 Mac 에서 brew 통해서 설치할 때
 ---
 
