@@ -102,5 +102,4 @@ title : bits/stdc++.h 를 위해 gcc 를 M1 Mac 에서 brew 통해서 설치할 
 ## References
 
 [1] [M1 Mac 의 Homebrew 설치 경로](https://earthly.dev/blog/homebrew-on-m1/)
-
-[2] [brew 를 통해 gcc 설치할 경우 접미사가 붙는다. 작성자 : Himanshu Tanwar](
+[2] [brew 를 통해 gcc 설치할 경우 접미사가 붙는다. 작성자 : Himanshu Tanwar](https://stackoverflow.com/questions/62876806/error-bits-stdc-h-cstdalign-file-not-found-running-c17)
