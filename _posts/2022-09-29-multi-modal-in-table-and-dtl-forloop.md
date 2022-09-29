@@ -19,7 +19,6 @@ title : 테이블 내 여러 행에 대한 modal 설정하는 방법
 * DTL(Django Template Language) 를 통해서 db 에 저장되어 있는 id 값을 각 태그 id 값에 추가해줬다.
 
 * ```model.py```
-
   ```python
   from django.db import models
   
@@ -33,7 +32,6 @@ title : 테이블 내 여러 행에 대한 modal 설정하는 방법
   ```
 
 * ```views.py```
-
   ```python
   from django.shortcuts import render, redirect
   from .models import Todo
@@ -51,7 +49,6 @@ title : 테이블 내 여러 행에 대한 modal 설정하는 방법
   ```
 
 * ```index.html```
-
   ```html
   ...
               <td><button ...data-bs-target="#Modal{{ i.id }}" data-bs-whatever="{{ i.id }}">변경</button></td>
