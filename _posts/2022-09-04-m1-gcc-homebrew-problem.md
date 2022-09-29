@@ -4,8 +4,6 @@ tags : [c++, gcc, m1, mac]
 title : stdc++.h 를 위해 gcc 를 M1 Mac 에서 brew 통해서 설치할 때
 ---
 
-# stdc++.h 를 위해 gcc 를 M1 Mac 에서 brew 통해서 설치할 때
-
 
 
 ## 1. M1 Mac 에서 Homebrew 설치 경로
